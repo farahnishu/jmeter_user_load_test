@@ -9,4 +9,4 @@
   jmeter -n -t Customer_Load_Test.jmx -l log.csv -e -o Reports
 ```
 
-![] (https://drive.google.com/file/d/1rDVxyJ-s6p-Y1jmXny-Nsbj1ePLKIyQb/view?usp=share_link)
+![](https://github.com/farahnishu/jmeter_user_load_test/blob/main/image/test%20and%20report.png)
