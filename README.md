@@ -9,4 +9,4 @@
   jmeter -n -t Customer_Load_Test.jmx -l log.csv -e -o Reports
 ```
 
-![photo]("D:\SQA\Project\Jmeter Project\image\Screenshot_1.png")
+![photo](https://drive.google.com/file/d/1rDVxyJ-s6p-Y1jmXny-Nsbj1ePLKIyQb/view?usp=share_link)
